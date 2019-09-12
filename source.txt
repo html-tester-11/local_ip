@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/20194722/can-you-get-a-users-local-lan-ip-address-via-javascript
